@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    height: 100vh;
+    background: red;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 10% 90%;
+    grid-template-rows: 200px 40px auto 100px;
+}
+header{
+    background: maroon;
+    display: block;
+    grid-column: 1/3;
+}
+nav{
+    background: rgb(72, 0, 255);
+    grid-column: 1/3;
+}
+aside{
+    background: rgb(81, 255, 0);
+    grid-column: 1/2;
+}
+main{
+    background: rgb(81, 255, 0);
+    grid-column: 2/3;
+    grid-row: 3/4;
+}
+footer{
+    background: rgb(88, 85, 95);
+    grid-column: 1/3;
+}
+@media (width <=550px){
+    header{
+        background: purple;
+    }
+}

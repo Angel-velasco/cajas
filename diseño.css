@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 300px;
+    height: 300px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container1{
+    width: 400px;
+    height: 400px;
+    background: red;
+    margin: 50px auto;
+    display: flex ;
+    flex-direction: column;
+}
+.container2{
+    width: 400px;
+    height: 400px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column-reverse ;
+}
+.container3{
+    width: 300px;
+    height: 300px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container4{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container5{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container6{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container7{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container8{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container9{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container10{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container11{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container12{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container13{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container14{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container15{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container16{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container17{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container18{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container19{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container20{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container21{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container23{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+.container24{
+    width: 800px;
+    height: 800px;
+    background: red;
+    margin: 50px auto;
+    display: flex;
+}
+
+
+.caja{
+   width: 100px;
+   height: 50px;
+   background: blue;
+   font-size: 50px;
+   font-weight: bolder;
+   text-align: center;
+   margin: 10px;
+}
